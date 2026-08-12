@@ -1,250 +1,187 @@
-# Vendor Evaluation Scorecard
+# Website RFP Evaluation Scorecard
 
-## Accounting Firm Website & AI Automation Project
-
-**Firm:** [Firm Name]
-**Project:** Website Development & AI Automation
-**Evaluation date:** [Date]
-**Evaluator:** [Name, title]
+A weighted scoring matrix for evaluating vendor proposals against objective criteria. Designed for use with the [Accounting Firm Website RFP Template](./rfp-template.md).
 
 ---
 
-## Instructions
+## How to use this scorecard
 
-1. **Review each proposal** against the criteria below
-2. **Score each sub-criterion** on a 1–5 scale using the rubric
-3. **Calculate weighted scores** (sub-score × weight)
-4. **Add notes** to justify scores and capture key observations
-5. **Sum total scores** at the bottom
-6. **Compare vendors** side-by-side using the summary table
-
-### Scoring Rubric
-
-| Score | Rating | Meaning |
-|-------|--------|---------|
-| **5** | Excellent | Exceeds requirements; demonstrates deep expertise and innovation |
-| **4** | Good | Meets all requirements; strong capability with minor gaps |
-| **3** | Acceptable | Meets basic requirements; adequate but unremarkable |
-| **2** | Below Average | Partially meets requirements; notable gaps or concerns |
-| **1** | Poor | Fails to meet requirements; significant risk or missing capability |
+1. **Print or duplicate** this scorecard for each evaluator.
+2. **Score independently** — each evaluator scores proposals separately before discussion.
+3. **Use the rubric** — refer to the 1–5 scale definitions below for each criterion.
+4. **Calculate weighted scores** — multiply the raw score (1–5) by the weight (%) for each criterion.
+5. **Sum the weighted scores** — the vendor with the highest total score is the strongest candidate.
+6. **Discuss as a team** — compare scores, identify outliers, and resolve disagreements before making a final decision.
 
 ---
 
-## Vendor A: [Vendor Name]
+## Scoring scale
 
-### 1. Domain Expertise (Weight: 25%)
-
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Accounting/tax firm experience (number of similar projects) | | 8% | | |
-| Understanding of CPA firm operations, tax season, compliance | | 7% | | |
-| Familiarity with accounting software integrations (QuickBooks, CCH, etc.) | | 5% | | |
-| Knowledge of professional services marketing and lead generation | | 5% | | |
-| **Subtotal** | | **25%** | **0.00** | |
-
-**Evaluation Questions:**
-- How many accounting/CPA/tax firm websites has this vendor built in the past 3 years?
-- Do they understand the unique sales cycle of professional services (trust-based, longer consideration)?
-- Can they speak intelligently about tax season workflows, client onboarding, and compliance considerations?
-- Do they have experience with practice management software integrations?
-- Do their case studies show measurable results for similar firms?
+| Score | Rating | Definition |
+|---|---|---|
+| **1** | Poor | Does not meet the requirement. Significant gaps or missing information. High risk. |
+| **2** | Below average | Partially meets the requirement. Notable gaps that would require clarification or rework. |
+| **3** | Acceptable | Meets the basic requirement. Adequate approach with no major concerns. |
+| **4** | Good | Exceeds the basic requirement. Clear, well-thought-out approach with evidence of capability. |
+| **5** | Excellent | Significantly exceeds the requirement. Best-in-class approach with strong evidence, innovation, or differentiation. |
 
 ---
 
-### 2. AI & Automation Capabilities (Weight: 20%)
+## Weighted evaluation matrix
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Voice AI agent deployment experience (inbound/outbound) | | 5% | | |
-| Chatbot/conversational AI implementation (training, escalation) | | 5% | | |
-| Workflow automation (intake, onboarding, document collection) | | 4% | | |
-| AI ethics, governance, and data handling practices | | 3% | | |
-| Integration with firm systems (CRM, phone, scheduling) | | 3% | | |
-| **Subtotal** | | **20%** | **0.00** | |
+| # | Criterion | Weight | Vendor A | Vendor B | Vendor C |
+|---|---|---|---|---|---|
+| 1 | Understanding of requirements and strategic approach | 20% | /5 | /5 | /5 |
+| 2 | Design quality and user experience | 20% | /5 | /5 | /5 |
+| 3 | Technical capability and platform recommendation | 20% | /5 | /5 | /5 |
+| 4 | Relevant experience and portfolio | 15% | /5 | /5 | /5 |
+| 5 | AI and automation capabilities | 10% | /5 | /5 | /5 |
+| 6 | Project timeline and feasibility | 10% | /5 | /5 | /5 |
+| 7 | Cost and value | 5% | /5 | /5 | /5 |
+| | **Total weighted score** | **100%** | **/5** | **/5** | **/5** |
 
-**Evaluation Questions:**
-- Have they deployed voice AI agents for professional services clients? Ask for demos or recordings.
-- How do they train chatbots? Custom-trained on firm content or generic templates?
-- What's their approach to AI handoff to human staff? Is it seamless or clunky?
-- How do they handle data privacy? What data goes to AI providers? Where is it stored?
-- Do they have documented AI governance policies (bias testing, transparency, kill switches)?
-- Can they show measurable results (resolution rates, time saved, cost reduction)?
+**Calculation:** For each vendor, multiply each raw score by the weight (as a decimal), then sum. Example: if Vendor A scores 4 on criterion 1 (20%), that contributes 4 × 0.20 = 0.80 to the total. Maximum possible total is 5.00.
 
 ---
 
-### 3. Design & UX Quality (Weight: 15%)
+## Criterion rubrics
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Visual design quality (portfolio review) | | 5% | | |
-| User experience and information architecture | | 4% | | |
-| Mobile responsiveness and performance | | 3% | | |
-| Accessibility compliance (WCAG 2.1 AA) | | 3% | | |
-| **Subtotal** | | **15%** | **0.00** | |
+### 1. Understanding of requirements and strategic approach (20%)
 
-**Evaluation Questions:**
-- Review their portfolio: Do designs look modern, professional, trustworthy? (Not generic templates.)
-- Is the information architecture clear? Can you find key information in 2 clicks?
-- Test their live client sites on mobile: Do they load fast? Is navigation intuitive?
-- Do they have documented accessibility testing? Can they show WCAG compliance reports?
-- Do designs reflect understanding of professional services branding (credibility, expertise)?
+Evaluates how well the vendor demonstrates comprehension of the firm's goals, audience, and challenges, and the quality of their proposed strategy.
 
----
+| Score | Indicator |
+|---|---|
+| 1 | Generic proposal. No evidence of understanding the firm's specific context, audience, or goals. |
+| 2 | Basic understanding of the brief but limited customization. Strategy is vague or templated. |
+| 3 | Clear understanding of requirements. Strategy is reasonable and addresses the firm's stated goals. |
+| 4 | Strong understanding demonstrated through specific references to the firm's context. Strategy is tailored and insightful. |
+| 5 | Deep understanding of the firm's market, competitive position, and growth objectives. Strategy is innovative and clearly differentiated. |
 
-### 4. Pricing Model & Value (Weight: 15%)
+### 2. Design quality and user experience (20%)
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Transparent, itemized pricing | | 4% | | |
-| Reasonable 3-year total cost of ownership | | 4% | | |
-| Clear scope definition (what's included vs. add-ons) | | 4% | | |
-| Fair payment schedule and change order process | | 3% | | |
-| **Subtotal** | | **15%** | **0.00** | |
+Evaluates the quality of the vendor's design portfolio, proposed design process, and attention to UX best practices (accessibility, mobile-first, visual hierarchy, conversion optimization).
 
-**Evaluation Questions:**
-- Is pricing broken down by phase/deliverable, or is it a single lump sum?
-- Are ongoing costs (hosting, maintenance, AI usage) clearly separated from build costs?
-- Does the 3-year TCO seem reasonable compared to market rates?
-- Is the scope clearly defined? Are there hidden costs or vague "TBD" items?
-- Is the payment schedule milestone-based (not 100% upfront)?
-- How are change orders handled? Is there a clear process and rate card?
+| Score | Indicator |
+|---|---|
+| 1 | Portfolio shows outdated, inconsistent, or low-quality design. No UX process described. |
+| 2 | Portfolio is adequate but undifferentiated. UX process is mentioned but not detailed. |
+| 3 | Portfolio demonstrates competent, professional design. UX process is clear and follows best practices. |
+| 4 | Portfolio shows strong, modern design with evidence of UX research and testing. Accessibility commitment is explicit. |
+| 5 | Portfolio is exceptional — award-winning or clearly best-in-class. UX process includes user research, wireframing, prototyping, and usability testing. Accessibility is a core design principle. |
 
----
+### 3. Technical capability and platform recommendation (20%)
 
-### 5. Timeline & Delivery Confidence (Weight: 10%)
+Evaluates the vendor's technical expertise, the appropriateness of their recommended platform/CMS, security practices, performance optimization, and integration capabilities.
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Realistic timeline with clear milestones | | 4% | | |
-| Tax-season awareness and risk mitigation | | 3% | | |
-| Team capacity and resource allocation | | 3% | | |
-| **Subtotal** | | **10%** | **0.00** | |
+| Score | Indicator |
+|---|---|
+| 1 | Technical approach is unclear or relies on outdated/unsupported technology. No security or performance considerations. |
+| 2 | Platform recommendation is reasonable but lacks detail. Security and performance are mentioned superficially. |
+| 3 | Solid technical approach with a well-supported platform. Security, performance, and SEO are addressed adequately. |
+| 4 | Strong technical proposal with clear rationale for platform choice. Security hardening, performance optimization, and integration capabilities are well-documented. |
+| 5 | Technical approach is best-in-class. Platform choice is optimal for the firm's needs. Security, performance, scalability, and integrations are thoroughly addressed with evidence of past success. |
 
-**Evaluation Questions:**
-- Is the timeline realistic for the scope? (Beware of proposals promising < 8 weeks for complex projects.)
-- Do they acknowledge tax-season constraints and propose a launch window outside January–April?
-- Have they identified key dependencies and risks? What's their mitigation plan?
-- Who is on the team? Are they dedicated to this project or juggling multiple clients?
-- Do they have a track record of on-time delivery? (Ask references.)
+### 4. Relevant experience and portfolio (15%)
 
----
+Evaluates the vendor's experience with similar projects (professional-services firms, accounting/CPA firms, financial services) and the quality of their references.
 
-### 6. Support & Partnership Model (Weight: 10%)
+| Score | Indicator |
+|---|---|
+| 1 | No relevant experience. Portfolio does not include similar projects. References not provided. |
+| 2 | Limited relevant experience. Portfolio includes some related work but not in professional services. References provided but weak. |
+| 3 | Moderate relevant experience. Portfolio includes 1–2 similar projects. References are adequate. |
+| 4 | Strong relevant experience. Portfolio includes multiple projects for professional-services firms. References are strong and recent. |
+| 5 | Extensive relevant experience. Portfolio demonstrates deep expertise in accounting/CPA/financial-services websites. References are exceptional and verifiable. |
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Post-launch support plan (duration, scope, SLA) | | 4% | | |
-| Maintenance and update process | | 3% | | |
-| Responsiveness and communication model | | 3% | | |
-| **Subtotal** | | **10%** | **0.00** | |
+### 5. AI and automation capabilities (10%)
 
-**Evaluation Questions:**
-- What's included in post-launch support? How long does it last? What's the response time SLA?
-- How are updates, security patches, and CMS upgrades handled?
-- What's the communication model? Weekly check-ins? Dedicated Slack channel? Monthly reports?
-- Do they offer training and knowledge transfer so your team can make basic updates?
-- Are they positioning as a long-term partner or a one-and-done vendor?
+Evaluates the vendor's ability to implement AI-powered features (chatbot, personalization, intelligent search, content automation) and their approach to AI governance (data handling, transparency, opt-out).
 
----
+| Score | Indicator |
+|---|---|
+| 1 | No AI capabilities offered. No discussion of AI governance. |
+| 2 | Basic AI features mentioned (e.g., simple chatbot) but no detail on implementation or governance. |
+| 3 | Reasonable AI capabilities with clear description of features, costs, and basic governance. |
+| 4 | Strong AI capabilities with multiple features, clear implementation plan, and thoughtful governance (data handling, transparency, opt-out). |
+| 5 | Best-in-class AI capabilities with innovative features, clear ROI, and comprehensive governance. Evidence of successful AI implementations in similar firms. |
 
-### 7. References & Track Record (Weight: 5%)
+### 6. Project timeline and feasibility (10%)
 
-| Sub-Criterion | Score (1-5) | Weight | Weighted Score | Notes |
-|---------------|-------------|--------|----------------|-------|
-| Quality and relevance of references | | 3% | | |
-| Client satisfaction and retention | | 2% | | |
-| **Subtotal** | | **5%** | **0.00** | |
+Evaluates the realism and clarity of the proposed timeline, identification of dependencies and risks, and the vendor's capacity to deliver on schedule.
 
-**Evaluation Questions:**
-- Are references from similar firms (size, services, complexity)?
-- Did you actually call the references? What did they say about the vendor's strengths and weaknesses?
-- Do references indicate the vendor delivered on time, on budget, and to spec?
-- Would the reference client work with this vendor again?
-- Does the vendor have a track record of long-term client relationships (not just one-off projects)?
+| Score | Indicator |
+|---|---|
+| 1 | Timeline is unrealistic or missing. No identification of dependencies or risks. |
+| 2 | Timeline is provided but lacks detail. Dependencies are not clearly identified. |
+| 3 | Timeline is reasonable and includes key milestones. Dependencies are identified. |
+| 4 | Timeline is detailed, realistic, and includes buffer for revisions. Dependencies and risks are well-documented with mitigation plans. |
+| 5 | Timeline is exceptional — detailed, realistic, and includes contingency planning. Vendor demonstrates strong project-management capability with evidence of on-time delivery on similar projects. |
+
+### 7. Cost and value (5%)
+
+Evaluates the total cost of the proposal relative to the scope, quality, and value delivered. This criterion is weighted lower because the firm prioritizes quality and fit over lowest cost.
+
+| Score | Indicator |
+|---|---|
+| 1 | Cost is significantly above budget with no clear justification for the premium. Poor value. |
+| 2 | Cost is above budget. Some value-adds but not enough to justify the premium. |
+| 3 | Cost is within budget. Fair value for the scope and quality proposed. |
+| 4 | Cost is within or slightly below budget. Strong value with meaningful value-adds or efficiencies. |
+| 5 | Cost is well within budget with exceptional value. Includes significant value-adds, favorable terms, or innovative cost-saving approaches. |
 
 ---
 
-## Vendor A: Total Score
+## Scoring worksheet
 
-| Criterion | Weight | Weighted Score |
-|-----------|--------|----------------|
-| Domain Expertise | 25% | 0.00 |
-| AI & Automation Capabilities | 20% | 0.00 |
-| Design & UX Quality | 15% | 0.00 |
-| Pricing Model & Value | 15% | 0.00 |
-| Timeline & Delivery Confidence | 10% | 0.00 |
-| Support & Partnership Model | 10% | 0.00 |
-| References & Track Record | 5% | 0.00 |
-| **TOTAL** | **100%** | **0.00** |
+Use this worksheet to calculate final scores.
 
-**Overall impression:** [Write a brief summary of strengths, concerns, and key differentiators]
+| Criterion | Weight | Vendor A (raw) | Vendor A (weighted) | Vendor B (raw) | Vendor B (weighted) | Vendor C (raw) | Vendor C (weighted) |
+|---|---|---|---|---|---|---|---|
+| Understanding & strategy | 20% | | | | | | |
+| Design & UX | 20% | | | | | | |
+| Technical capability | 20% | | | | | | |
+| Experience & portfolio | 15% | | | | | | |
+| AI & automation | 10% | | | | | | |
+| Timeline & feasibility | 10% | | | | | | |
+| Cost & value | 5% | | | | | | |
+| **Total** | **100%** | | **/5** | | **/5** | | **/5** |
 
-**Recommendation:** [ ] Advance to presentation  [ ] Waitlist  [ ] Decline
-
----
-
-## Vendor B: [Vendor Name]
-
-*Duplicate the scoring tables above for Vendor B, or copy this scorecard to a new document.*
-
-| Criterion | Weight | Weighted Score |
-|-----------|--------|----------------|
-| Domain Expertise | 25% | 0.00 |
-| AI & Automation Capabilities | 20% | 0.00 |
-| Design & UX Quality | 15% | 0.00 |
-| Pricing Model & Value | 15% | 0.00 |
-| Timeline & Delivery Confidence | 10% | 0.00 |
-| Support & Partnership Model | 10% | 0.00 |
-| References & Track Record | 5% | 0.00 |
-| **TOTAL** | **100%** | **0.00** |
-
-**Overall impression:**
-
-**Recommendation:** [ ] Advance to presentation  [ ] Waitlist  [ ] Decline
+**Weighted score formula:** Raw score × Weight (as decimal) = Weighted score. Sum all weighted scores for the total.
 
 ---
 
-## Vendor C: [Vendor Name]
+## Notes and recommendations
 
-| Criterion | Weight | Weighted Score |
-|-----------|--------|----------------|
-| Domain Expertise | 25% | 0.00 |
-| AI & Automation Capabilities | 20% | 0.00 |
-| Design & UX Quality | 15% | 0.00 |
-| Pricing Model & Value | 15% | 0.00 |
-| Timeline & Delivery Confidence | 10% | 0.00 |
-| Support & Partnership Model | 10% | 0.00 |
-| References & Track Record | 5% | 0.00 |
-| **TOTAL** | **100%** | **0.00** |
+**Evaluator name:** _________________________________
+**Date:** _________________________________
 
-**Overall impression:**
+### Vendor A — strengths and concerns
 
-**Recommendation:** [ ] Advance to presentation  [ ] Waitlist  [ ] Decline
+- Strengths:
+- Concerns:
 
----
+### Vendor B — strengths and concerns
 
-## Vendor Comparison Summary
+- Strengths:
+- Concerns:
 
-| Vendor | Domain Expertise (25%) | AI Capabilities (20%) | Design/UX (15%) | Pricing (15%) | Timeline (10%) | Support (10%) | References (5%) | **TOTAL** |
-|--------|------------------------|----------------------|-----------------|---------------|----------------|---------------|-----------------|-----------|
-| **Vendor A** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | **0.00** |
-| **Vendor B** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | **0.00** |
-| **Vendor C** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | **0.00** |
+### Vendor C — strengths and concerns
 
-### Key Observations
+- Strengths:
+- Concerns:
 
-**Strongest vendor:** [Name] — [Why]
+### Recommendation
 
-**Biggest concern:** [Vendor name and issue]
+Based on the scoring and qualitative assessment, I recommend:
 
-**Recommendation:** [Which vendor to advance, and why]
+- [ ] Vendor A
+- [ ] Vendor B
+- [ ] Vendor C
+- [ ] None of the above (explain below)
+
+**Rationale:**
 
 ---
 
-## Evaluator Notes
-
-*Use this space for additional observations, questions for presentations, or concerns that don't fit the scoring rubric.*
-
----
-
-*This evaluation scorecard is provided by [PracticeGrowth.Tech](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) as a free resource for accounting firms. Use it alongside the [RFP template](rfp-template.md) for a complete vendor selection process.*
+*This scorecard is part of the [Accounting Firm Website RFP Template](./rfp-template.md), provided by [PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) for informational purposes. It is not legal or procurement advice.*

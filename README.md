@@ -1,58 +1,58 @@
 # Accounting Firm Website RFP Template
 
-> **A complete Request for Proposal (RFP) template and weighted evaluation scorecard for accounting firms selecting a website development and AI automation agency.**
+**A free, structured Request-for-Proposal template to help CPA and accounting firms evaluate, compare, and select the right website design and development partner.**
 
-*Published: August 2026 · Last reviewed: August 2026*
+> Built by [PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) — growth infrastructure for accounting firms.
 
 ---
-
-## Why this template exists
-
-Choosing a website agency is one of the highest-stakes vendor decisions an accounting firm makes. Most RFPs are generic, miss the unique requirements of CPA and tax practices, and don't weight what actually matters — domain expertise, AI readiness, and tax-season reliability.
-
-This template gives accounting firm leaders a structured, neutral framework to:
-
-- Clearly define project scope, technical requirements, and AI/automation needs
-- Evaluate vendors on criteria that matter for professional services (not just design aesthetics)
-- Compare proposals objectively using a weighted scorecard
-- Avoid the common pitfalls that lead to costly rebuilds or underperforming sites
 
 ## What's included
 
 | File | Purpose |
-|------|---------|
-| [`rfp-template.md`](rfp-template.md) | Full 10-section RFP template — copy, customize, send to vendors |
-| [`evaluation-scorecard.md`](evaluation-scorecard.md) | Weighted scoring matrix with rubric (1–5 scale) and auto-calculation |
+|---|---|
+| [`rfp-template.md`](./rfp-template.md) | Full 10-section RFP template — copy, customize, and send to vendors |
+| [`evaluation-scorecard.md`](./evaluation-scorecard.md) | Weighted scoring matrix with a 1–5 rubric across 7 criteria |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to suggest improvements to this template |
+| [`LICENSE`](./LICENSE) | CC-BY-4.0 — free to use, adapt, and share |
 
-## Who this is for
+## Why we built this
 
-- Managing partners and firm administrators at CPA, tax, and accounting firms
-- Marketing directors at professional services firms evaluating website rebuilds
-- Operations leaders planning digital transformation (AI agents, client portals, booking automation)
+Most accounting firms issuing their first website RFP face the same problems:
+
+- **Vague scope** — vendors propose against different assumptions, making apples-to-apples comparison impossible.
+- **Missing technical requirements** — security, accessibility, CMS, and integration expectations are left unwritten.
+- **No AI considerations** — modern firm websites need chatbot, content automation, and intelligent search capabilities that most legacy RFPs don't address.
+- **Subjective evaluation** — without a weighted scorecard, the decision defaults to the cheapest bid or the loudest sales pitch.
+
+This template fixes all four. It is based on current procurement best practices, CPA-firm website requirements (security, accessibility, client portal integration), and 2025-era AI capabilities that accounting firms should be evaluating.
 
 ## How to use it
 
-1. **Read** both files to understand the framework
-2. **Customize** `rfp-template.md` with your firm's specifics (size, services, goals, budget range)
-3. **Distribute** to 3–5 shortlisted agencies
-4. **Score** responses using `evaluation-scorecard.md`
-5. **Decide** based on weighted evidence, not gut feel
+1. **Fork or download** this repository.
+2. **Customize `rfp-template.md`** — fill in your firm's name, background, timeline, and budget range. Remove any sections that don't apply.
+3. **Share with 3–5 shortlisted vendors** and give them a clear submission deadline.
+4. **Score proposals** using `evaluation-scorecard.md` — each evaluator scores independently, then the team compares.
+5. **Select, negotiate, and engage** — the template's structure ensures you've compared the right things.
 
-## About PracticeGrowth.Tech
+## Who it's for
 
-[PracticeGrowth.Tech](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) builds growth infrastructure for accounting firms, CPA practices, and tax professionals — combining website development, AI agents, marketing automation, and demand generation into a single operating model.
-
-This template is published as a free resource for firm leaders navigating vendor selection, regardless of whether they engage PracticeGrowth.Tech.
-
-## Related resources
-
-- [PracticeGrowth.Tech](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) — Growth infrastructure for accounting firms
-- [PracticeGrowth Tax Glossary](https://github.com/practicegrowth/practicegrowth-tax-glossary) — Open-source tax terminology reference
-
-## License
-
-This template is released under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0). Use, adapt, and share freely — attribution appreciated.
+- CPA firms (solo practitioner through mid-market)
+- Accounting and bookkeeping firms evaluating a website redesign
+- Financial services firms with similar procurement needs
+- Consultants and advisors helping accounting firms with technology selection
 
 ## Disclaimer
 
-This template is provided as-is for informational purposes. It does not constitute legal, procurement, or vendor-management advice. Firms should consult their own legal and procurement advisors before issuing formal RFPs. PracticeGrowth.Tech is not responsible for outcomes resulting from use of this template.
+This template is provided **as-is for informational purposes**. It is not legal advice, procurement advice, or a recommendation of any specific vendor, technology, or approach. Every firm should have its legal counsel review any RFP before distribution. PracticeGrowth.Tech makes no warranties regarding the completeness, accuracy, or fitness of this template for any particular purpose.
+
+Vendor responses to this RFP template do not create any obligation on the part of the issuing firm, and use of this template does not create any obligation on the part of PracticeGrowth.Tech.
+
+---
+
+## Footer
+
+© 2025 PracticeGrowth.Tech. Released under [CC-BY-4.0](./LICENSE).
+
+If this template saved you time, [let us know](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) — we build free resources and growth infrastructure for accounting firms.
+
+**[← Back to PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template)**

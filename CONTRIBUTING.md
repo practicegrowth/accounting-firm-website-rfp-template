@@ -1,58 +1,55 @@
 # Contributing to the Accounting Firm Website RFP Template
 
-Thank you for your interest in improving this resource. Contributions from accounting firm leaders, vendor evaluators, and professional services marketers are welcome.
+Thank you for your interest in improving this resource. This template is maintained by [PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) and is used by accounting firms, consultants, and procurement teams.
 
 ## How to contribute
 
 ### Reporting issues
 
-If you find an error, outdated information, or have a suggestion for improvement:
+Found a problem, outdated section, or unclear instruction? [Open an issue](../../issues) and describe:
 
-1. Check existing [issues](../../issues) to avoid duplicates
-2. Open a new issue with a clear title and description
-3. Include context: what section, what's wrong, what would be better
+- What section or file is affected
+- What the problem is
+- What you'd expect instead
 
 ### Suggesting changes
 
-For small fixes (typos, clarifications, formatting):
-
-1. Fork this repository
-2. Make your changes in a feature branch
-3. Test that markdown renders correctly
-4. Submit a pull request with a concise description
-
-For larger changes (new sections, structural changes, evaluation criteria adjustments):
-
-1. Open an issue first to discuss the proposed change
-2. Wait for feedback before investing significant effort
-3. If approved, follow the fork-branch-PR workflow above
+1. **Fork** this repository.
+2. **Create a branch** for your change (`git checkout -b improve/your-change`).
+3. **Make your edits** — keep changes focused and well-explained.
+4. **Commit** with a clear message describing what changed and why.
+5. **Open a pull request** against `main`.
 
 ### What makes a good contribution
 
-- **Specific**: "Section 4 should mention SOC 2 compliance" beats "security section needs work"
-- **Evidence-based**: Cite real procurement challenges, industry standards, or vendor evaluation best practices
-- **Neutral**: This template is vendor-agnostic. Don't add promotional content or favor specific vendors
-- **Practical**: Focus on what helps accounting firm leaders make better decisions
+- **Specificity** — "Add a section on client portal integration requirements" beats "make it better."
+- **Evidence** — link to a standard, regulation, or industry practice that supports the change.
+- **Neutrality** — this template must remain vendor-neutral. Do not add references to specific products, platforms, or services unless they are open standards (e.g., WCAG 2.1, SOC 2).
+- **Scope** — one improvement per PR. Large restructuring proposals should start as an issue for discussion.
+
+### What we will not accept
+
+- Vendor-specific recommendations or product placements
+- Marketing language or promotional content
+- Changes that introduce legal liability or compliance risk
+- Edits that remove the disclaimer or attribution
+- Changes that make the template less useful for small or solo-practitioner firms
 
 ## Review process
 
-- Pull requests are reviewed by PracticeGrowth.Tech maintainers
-- We prioritize accuracy, neutrality, and practical utility
-- Reviews typically complete within 1–2 weeks
-- We may request changes or ask for clarification before merging
-
-## Style guidelines
-
-- Use clear, professional language appropriate for firm leadership
-- Avoid jargon unless it's standard industry terminology
-- Keep sentences concise — busy partners don't read walls of text
-- Use tables and bullet lists for scannable content
-- Headings should be descriptive and hierarchical (H2 → H3 → H4)
+1. A maintainer will review your PR within 7 days.
+2. We may ask questions or request changes.
+3. Accepted PRs are merged and credited in the commit history.
+4. Substantial contributions may be acknowledged in the README.
 
 ## Code of conduct
 
-Be respectful, constructive, and professional. We're all here to help accounting firms make better vendor decisions.
+Be respectful, constructive, and focused on making this template more useful for accounting firms. We will remove comments or contributions that are hostile, off-topic, or promotional.
 
-## Questions?
+## Questions
 
-Open an issue or contact the maintainers through the [PracticeGrowth.Tech website](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template).
+Open an issue or reach out via [PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template).
+
+---
+
+By contributing, you agree that your contributions are licensed under the same [CC-BY-4.0](./LICENSE) license as the rest of this repository.

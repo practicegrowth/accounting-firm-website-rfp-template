@@ -1,398 +1,288 @@
-# Request for Proposal: Website Development & AI Automation
+# Request for Proposal: Website Design & Development
 
-## [Firm Name]
-
-**Issued:** [Date]
-**Submission deadline:** [Date — recommend 3–4 weeks from issuance]
-**Contact:** [Name, title, email, phone]
-
----
-
-## Table of Contents
-
-1. [Project Overview & Goals](#1-project-overview--goals)
-2. [Firm Background](#2-firm-background)
-3. [Scope of Work](#3-scope-of-work)
-4. [Technical Requirements](#4-technical-requirements)
-5. [AI & Automation Requirements](#5-ai--automation-requirements)
-6. [Timeline & Milestones](#6-timeline--milestones)
-7. [Budget & Pricing Model](#7-budget--pricing-model)
-8. [Vendor Qualifications](#8-vendor-qualifications)
-9. [Evaluation Criteria](#9-evaluation-criteria)
-10. [Submission Instructions](#10-submission-instructions)
+**Firm Name:** [Your Firm Name]
+**Date Issued:** [Date]
+**Submission Deadline:** [Date]
+**Contact:** [Name, Title, Email, Phone]
 
 ---
 
-## 1. Project Overview & Goals
+## 1. Overview
 
-### 1.1 Purpose
+[Firm Name] is issuing this Request for Proposal (RFP) to solicit proposals from qualified vendors for the design, development, and deployment of a new website. This website will serve as the firm's primary digital presence — supporting client acquisition, brand credibility, service communication, and client self-service.
 
-[Firm Name] is soliciting proposals from qualified agencies to design, develop, and deploy a modern website with integrated AI and automation capabilities. This RFP defines the project scope, technical requirements, evaluation criteria, and submission process.
+The selected vendor will be responsible for the full project lifecycle: discovery, information architecture, design, development, content migration (if applicable), testing, launch, and post-launch support.
 
-### 1.2 Primary Goals
-
-- **Lead generation:** Convert website visitors into qualified prospects through clear CTAs, service-specific landing pages, and friction-free intake
-- **Client experience:** Provide existing clients with self-service tools (document upload, appointment booking, portal access) that reduce administrative burden
-- **Professional credibility:** Present a modern, trustworthy digital presence that reflects the firm's expertise and differentiates it from competitors
-- **AI readiness:** Deploy voice agents, chatbots, and automated workflows that handle routine inquiries, intake, and scheduling 24/7
-- **Operational efficiency:** Automate repetitive tasks (follow-ups, reminders, document collection) so staff can focus on higher-value work
-- **Tax-season resilience:** Ensure the site and its integrations perform reliably during peak traffic periods (January–April)
-
-### 1.3 Success Metrics
-
-Vendors should propose how they will measure and report on:
-
-- Organic traffic growth (6-month and 12-month targets)
-- Lead conversion rate (visitor → form submission → qualified lead)
-- Client portal adoption rate
-- AI agent resolution rate (inquiries handled without human intervention)
-- Page load speed and Core Web Vitals
-- Uptime during tax season
+This RFP outlines the firm's requirements, evaluation criteria, and submission guidelines. Vendors are expected to respond to all applicable sections and identify any areas where they propose an alternative approach.
 
 ---
 
-## 2. Firm Background
+## 2. Background
 
-*Complete this section with your firm's specifics.*
+### About the firm
 
-### 2.1 Firm Profile
+[Firm Name] is a [CPA / accounting / bookkeeping / advisory] firm based in [City, State], serving [client types: e.g., small businesses, high-net-worth individuals, nonprofits, etc.]. The firm has [X] professionals and [X] clients.
 
-| Detail | Response |
-|--------|----------|
-| Firm name | |
-| Year founded | |
-| Number of partners/owners | |
-| Total staff (including partners) | |
-| Office locations | |
-| Primary service areas (e.g., tax, audit, advisory, bookkeeping) | |
-| Target client types (e.g., individuals, small business, nonprofit, high-net-worth) | |
-| Annual revenue range | |
-| Current website URL | |
-| Current CMS/platform | |
-| Domain age | |
-| Average monthly website traffic | |
+### Current website
 
-### 2.2 Current Website Assessment
+The firm's current website was launched in [year] and is built on [platform, if known]. The current site [describe key issues: e.g., is not mobile-responsive, has outdated design, lacks a content management system, does not integrate with practice management tools, has poor search visibility, etc.].
 
-Describe the current state of your website:
+### Why now
 
-- What works well?
-- What are the main pain points?
-- When was the last redesign?
-- Who manages content updates today?
-- What integrations exist (CRM, practice management, document management)?
+[Briefly explain the business driver: e.g., rebrand, firm merger, competitive pressure, technology refresh, new service lines, client feedback, etc.]
 
-### 2.3 Competitive Landscape
+### Goals
 
-List 2–3 local or niche competitors whose digital presence you admire or want to surpass:
+The new website must achieve the following objectives:
 
-1.
-2.
-3.
+- Establish a modern, credible, professional digital presence that reflects the firm's brand and expertise.
+- Improve the experience for prospective clients researching and selecting an accounting firm.
+- Provide existing clients with easier access to resources, documents, and self-service tools.
+- Support the firm's business-development and content-marketing efforts.
+- Be fast, accessible, secure, and maintainable by the firm's internal team after launch.
 
 ---
 
 ## 3. Scope of Work
 
-### 3.1 Website Design & Development
+### 3.1 Discovery and strategy
 
-- **Information architecture:** Sitemap, navigation structure, user flows for key personas (prospective clients, existing clients, recruits)
-- **Visual design:** Custom design reflecting firm brand (or brand refresh if needed); professional, trustworthy, modern aesthetic
-- **Page count:** Estimated [X] pages at launch (homepage, service pages, about/team, resources/blog, contact, client portal)
-- **Content migration:** Migration of existing content where appropriate; content audit and gap analysis
-- **Responsive design:** Mobile-first; fully functional across devices and screen sizes
-- **Accessibility:** WCAG 2.1 AA compliance minimum
-- **Performance:** Target Core Web Vitals in "good" range (LCP < 2.5s, FID < 100ms, CLS < 0.1)
+- Stakeholder interviews (minimum 3 sessions) to understand goals, audience, and success metrics.
+- Competitive analysis of 3–5 peer firms' websites.
+- Information architecture and sitemap recommendation.
+- User-journey mapping for primary personas (prospective clients, existing clients, referral sources, recruits).
+- Content strategy and messaging framework.
 
-### 3.2 Content Strategy & SEO/AEO
+### 3.2 Design
 
-- **Content audit:** Review of existing content; recommendations for retention, refresh, or removal
-- **Content creation:** [Specify number] service pages, [X] blog/resource articles at launch
-- **SEO foundations:** Technical SEO audit, on-page optimization, schema markup, XML sitemap, robots.txt
-- **AEO (Answer Engine Optimization):** Structured content designed to surface in AI-generated answers (ChatGPT, Perplexity, Google AI Overviews)
-- **Local SEO:** Google Business Profile optimization, local schema, citation consistency
-- **Content management:** Easy-to-use CMS so firm staff can publish updates without developer dependency
+- Visual design system (typography, color palette, component library) aligned with the firm's brand guidelines.
+- Homepage and up to [X] unique page templates.
+- Mobile-first responsive design.
+- Accessibility compliance to WCAG 2.1 Level AA.
+- Design review cycles: minimum 2 rounds of revisions per template.
 
-### 3.3 Client Portal & Self-Service
+### 3.3 Development
 
-- **Secure client login:** Authentication (SSO optional) with role-based access
-- **Document upload/download:** Secure file exchange with encryption at rest and in transit
-- **Appointment booking:** Integrated scheduling with calendar sync (Google Calendar, Outlook)
-- **Intake forms:** Digital intake with e-signature capability
-- **Billing/payment:** Online payment integration for invoices and retainer payments
-- **Notifications:** Email/SMS reminders for appointments, document requests, filing deadlines
+- Build on a modern, well-supported CMS (e.g., WordPress, Webflow, or equivalent — vendor to recommend with rationale).
+- Custom theme or component-based architecture; no reliance on unsupported or proprietary page builders.
+- Content migration from the existing site (approximately [X] pages).
+- Integration with [list systems: e.g., practice management software, client portal, CRM, email marketing platform, document management].
+- Blog / resource center with categories, tags, author profiles, and RSS.
+- Contact forms with spam protection and routing.
+- Newsletter signup integration.
 
-### 3.4 Integrations
+### 3.4 Content
 
-Specify current systems the website must integrate with:
+- Vendor to provide [copywriting / content editing / content migration] services for up to [X] pages.
+- Firm will provide [final approval / subject-matter input / existing content] as needed.
+- All content must be original or properly licensed.
 
-| System | Purpose | API Available? |
-|--------|---------|---------------|
-| [e.g., QuickBooks/Xero] | Accounting | |
-| [e.g., CCH/Dragon/TaxPrep] | Tax preparation | |
-| [e.g., Salesforce/HubSpot] | CRM | |
-| [e.g., NetSuite/Sage] | Practice management | |
-| [e.g., Dropbox/ShareFile] | Document management | |
-| [e.g., Stripe/Square] | Payment processing | |
+### 3.5 Quality assurance and launch
 
-### 3.5 Ongoing Support & Maintenance
+- Cross-browser and cross-device testing (Chrome, Safari, Firefox, Edge; iOS, Android).
+- Performance testing (target: Lighthouse score ≥ 90 on Performance, Accessibility, Best Practices, SEO).
+- Security review and hardening.
+- SEO foundations: metadata, structured data, XML sitemap, robots.txt, 301 redirects for all migrated URLs.
+- Analytics integration (Google Analytics 4 or equivalent).
+- Launch support with a minimum 14-day post-launch monitoring period.
 
-- Post-launch support period (specify duration)
-- Monthly maintenance plan (security patches, CMS updates, backups)
-- Content update support (hours per month or per-request)
-- Performance monitoring and reporting cadence
+### 3.6 Training and handoff
+
+- Minimum 2 hours of CMS training for the firm's content team.
+- Written documentation: CMS user guide, hosting and maintenance guide, and a technical handoff document.
+- Source files, design files, and code repository access transferred to the firm.
 
 ---
 
 ## 4. Technical Requirements
 
-### 4.1 CMS & Hosting
+Vendors must address each of the following in their proposal:
 
-| Requirement | Specification |
-|-------------|--------------|
-| CMS platform | [WordPress, Webflow, headless CMS, or vendor recommendation with justification] |
-| Hosting | [Managed hosting preference: cloud region, uptime SLA, CDN] |
-| SSL/TLS | Required; automated certificate management |
-| Backups | Daily automated backups with [X]-day retention; documented restore process |
-| Staging environment | Required for all changes before production deployment |
-
-### 4.2 Security
-
-- **Data protection:** Encryption at rest (AES-256) and in transit (TLS 1.2+)
-- **Compliance:** SOC 2 Type II or equivalent; familiarity with IRS Publication 4557 (Safeguarding Taxpayer Data)
-- **Vulnerability management:** Regular security scanning, patch management, incident response plan
-- **Access controls:** Role-based access, MFA for admin accounts, audit logging
-- **DDoS protection:** [Specify requirements]
-- **Penetration testing:** Frequency and scope expectations
-
-### 4.3 Performance & Reliability
-
-- **Uptime SLA:** Minimum 99.9% (specify penalty structure for non-compliance)
-- **Page load speed:** Target < 3 seconds for above-the-fold content on 4G connections
-- **Tax-season scaling:** Architecture must handle [X]x normal traffic during January–April without degradation
-- **Monitoring:** Real-time uptime, performance, and error monitoring with alerting
-
-### 4.4 Mobile & Accessibility
-
-- **Mobile experience:** Native-quality responsive design; not a desktop site shrunk to mobile
-- **Accessibility:** WCAG 2.1 AA compliance; documented testing methodology
-- **Browser support:** Current and previous major versions of Chrome, Firefox, Safari, Edge
-- **Device testing:** iOS (current + 1 prior), Android (current + 1 prior)
+| Requirement | Vendor Response |
+|---|---|
+| **CMS platform** — name, version, licensing model | |
+| **Hosting** — provider, uptime SLA, backup frequency, disaster recovery | |
+| **Security** — SSL/TLS, WAF, malware scanning, patch management cadence | |
+| **Data encryption** — at rest and in transit; specify standards (e.g., AES-256) | |
+| **Accessibility** — WCAG 2.1 AA conformance; testing method and tools | |
+| **Performance** — target page-load times; CDN usage; image optimization | |
+| **SEO** — on-page SEO capabilities, structured data support, sitemap generation | |
+| **Integrations** — list of supported integrations and APIs | |
+| **Scalability** — how the solution handles traffic growth and content volume | |
+| **Uptime and monitoring** — monitoring tools, alerting, incident response SLA | |
+| **Data ownership** — confirmation that all content, code, and data belong to the firm | |
+| **Compliance** — SOC 2, GDPR, CCPA, or other relevant certifications | |
 
 ---
 
-## 5. AI & Automation Requirements
+## 5. AI and Automation Capabilities
 
-### 5.1 Voice AI Agents
+The firm is interested in understanding how AI and automation can enhance the website's functionality and the firm's operations. Vendors should describe any of the following capabilities they offer or can implement:
 
-- **Inbound voice agent:** AI-powered phone answering for after-hours, overflow, and routine inquiries
-- **Capabilities:** Appointment scheduling, FAQ responses, call routing, message taking, callback scheduling
-- **Integration:** Must connect with firm phone system (specify: Twilio, RingCentral, etc.) and CRM
-- **Handoff:** Seamless warm transfer to human staff for complex inquiries
-- **Compliance:** Call recording disclosure, TCPA compliance, data handling per firm policies
-- **Voice quality:** Natural, professional; customizable voice/tone to match firm brand
+### 5.1 Client-facing AI
 
-### 5.2 Chatbot / Conversational AI
+- **Intelligent chatbot / virtual assistant** — able to answer common questions about services, hours, location, and onboarding; escalate to a human when needed; available 24/7.
+- **Content personalization** — dynamic content or recommendations based on visitor behavior or persona.
+- **Intelligent search** — site search that understands natural-language queries and returns relevant results.
+- **AI-assisted scheduling** — integration with calendar/booking tools for appointment requests.
 
-- **Website chatbot:** AI-powered chat for visitor engagement, qualification, and routing
-- **Capabilities:** Service inquiries, pricing questions, appointment booking, document requests, FAQ
-- **Training:** Custom-trained on firm-specific content, services, policies, and FAQs
-- **Escalation:** Clear handoff to human staff with full conversation context
-- **Analytics:** Conversation tracking, resolution rates, common topics, satisfaction metrics
-- **Channels:** Website chat at minimum; specify support for SMS, Facebook Messenger, WhatsApp if applicable
+### 5.2 Operational AI
 
-### 5.3 Automated Intake & Workflows
+- **Content automation** — tools or workflows that help the firm publish blog posts, service pages, or FAQs more efficiently.
+- **Lead routing and qualification** — automated scoring and routing of form submissions to the appropriate team member.
+- **Analytics insights** — AI-powered dashboards or summaries that highlight trends and opportunities.
 
-- **Lead intake:** Automated lead capture, qualification scoring, and routing to appropriate team member
-- **Client onboarding:** Automated welcome sequences, document request workflows, intake form completion
-- **Appointment management:** Automated scheduling, confirmation, reminder, and follow-up sequences
-- **Document collection:** Automated requests, status tracking, deadline reminders
-- **Tax-season workflows:** Proactive outreach for missing documents, status updates, deadline reminders
-- **Nurture sequences:** Drip campaigns for leads not yet ready to engage
+### 5.3 AI governance
 
-### 5.4 AI Ethics & Governance
+- **Data handling** — what data is collected, how it is stored, and whether it is used to train models.
+- **Transparency** — clear disclosure to visitors when they are interacting with AI.
+- **Opt-out** — ability for visitors to decline AI interactions.
+- **Vendor lock-in** — whether AI features depend on a proprietary model or can be migrated.
 
-Vendors must address:
-
-- How AI models are selected, trained, and updated
-- Data handling and privacy (what data is sent to AI providers; data residency)
-- Bias testing and mitigation
-- Human oversight and escalation protocols
-- Transparency with end users (disclosure that they're interacting with AI)
-- Kill switches and fallback procedures if AI systems fail
+Vendors should clearly identify which AI capabilities are included in the base proposal, which are optional add-ons, and any ongoing costs (per-seat, per-interaction, or monthly).
 
 ---
 
-## 6. Timeline & Milestones
+## 6. Timeline
 
-### 6.1 Project Timeline
+The firm anticipates the following project timeline. Vendors should confirm feasibility or propose an adjusted schedule with rationale.
 
-| Phase | Duration | Key Deliverables |
-|-------|----------|-----------------|
-| Discovery & Strategy | [X] weeks | Project plan, sitemap, wireframes, technical architecture |
-| Design | [X] weeks | Visual design mockups, design system, client approval |
-| Development | [X] weeks | CMS setup, page builds, integrations, AI agent configuration |
-| Content & SEO | [X] weeks | Content migration/creation, on-page SEO, schema markup |
-| Testing & QA | [X] weeks | Functional testing, accessibility audit, performance testing, UAT |
-| Launch | [X] week | Production deployment, DNS cutover, monitoring activation |
-| Post-launch support | [X] weeks | Bug fixes, optimization, training, knowledge transfer |
+| Phase | Target Duration |
+|---|---|
+| Vendor selection and kickoff | Week 0 |
+| Discovery and strategy | Weeks 1–3 |
+| Design (wireframes + visual design) | Weeks 4–7 |
+| Development and content | Weeks 8–14 |
+| QA, testing, and revisions | Weeks 15–16 |
+| Launch | Week 17 |
+| Post-launch support | Weeks 17–19 |
 
-*Total estimated project duration: [X] weeks*
+**Total project duration:** approximately 17–19 weeks from kickoff to launch.
 
-### 6.2 Key Milestones
-
-- **Kickoff meeting:** Within [X] business days of contract execution
-- **Design approval:** [Date or "X weeks from kickoff"]
-- **Development complete:** [Date]
-- **UAT start:** [Date]
-- **Launch date:** [Date — consider avoiding January–April tax season]
-- **Post-launch review:** [Date — typically 30 days post-launch]
-
-### 6.3 Constraints
-
-- **Tax-season blackout:** No major launches or changes during [January 1 – April 15] (or specify your firm's blackout period)
-- **Partner availability:** Key stakeholders available for reviews at [specify windows]
-- **Dependencies:** [List any external dependencies: IT team availability, third-party API access, etc.]
+Vendors must identify any dependencies on the firm (e.g., content delivery, brand-asset availability, stakeholder review windows) and any risks that could affect the timeline.
 
 ---
 
-## 7. Budget & Pricing Model
+## 7. Budget
 
-### 7.1 Budget Range
+The firm's budget range for this project is **$[X] – $[Y]**, inclusive of all design, development, content, integration, training, and first-year hosting/maintenance costs.
 
-[Firm Name] has allocated [range, e.g., $25,000–$50,000] for this project. Vendors should propose a fixed-price or time-and-materials estimate within or near this range. Proposals significantly above this range must include clear justification for the additional investment.
+Vendors must provide a detailed cost breakdown:
 
-### 7.2 Pricing Structure
+| Category | Cost |
+|---|---|
+| Discovery and strategy | $ |
+| Design | $ |
+| Development | $ |
+| Content (copywriting / migration) | $ |
+| Integrations | $ |
+| AI features (itemize each) | $ |
+| Training and documentation | $ |
+| Hosting (annual) | $ |
+| Maintenance and support (annual) | $ |
+| **Total first-year cost** | **$** |
+| **Ongoing annual cost (year 2+)** | **$** |
 
-Vendors must provide:
-
-- **Itemized pricing:** Break down costs by phase (discovery, design, development, content, AI/automation, integrations, testing, launch)
-- **Ongoing costs:** Monthly maintenance, hosting, AI agent usage fees, support retainer
-- **Optional/add-on costs:** Clearly separate must-have scope from nice-to-have enhancements
-- **Payment schedule:** Proposed milestone-based payment schedule
-- **Change order process:** How scope changes are priced and approved
-
-### 7.3 Total Cost of Ownership
-
-Provide a 3-year TCO estimate including:
-
-- Initial build cost
-- Monthly/annual hosting and maintenance
-- AI agent usage costs (per-minute, per-message, or flat)
-- Content update support
-- Feature enhancements (estimated annual budget)
+Vendors should also identify any costs that are not included but may be necessary (e.g., stock photography, premium plugins, third-party API fees).
 
 ---
 
 ## 8. Vendor Qualifications
 
-### 8.1 Required Qualifications
+Vendors must provide the following:
 
-All responding vendors must demonstrate:
+### 8.1 Company information
 
-- **Minimum experience:** [X] years designing and developing websites for professional services firms
-- **Accounting/tax domain expertise:** Documented experience with CPA firms, tax practices, or accounting organizations (provide case studies or references)
-- **AI/automation capability:** Demonstrated deployment of voice agents, chatbots, or workflow automation for professional services clients
-- **Security posture:** SOC 2 compliance or equivalent; documented security practices
-- **Team structure:** Identify project manager, lead designer, lead developer, and AI specialist assigned to this project
+- Company name, location, year founded, number of employees.
+- Summary of relevant experience, especially with professional-services firms (accounting, legal, financial services, consulting).
 
-### 8.2 Portfolio & References
+### 8.2 Portfolio
 
-Provide:
+- 3–5 examples of similar website projects, including:
+  - Client name and industry
+  - Project scope and outcome
+  - Live URL (if available)
+  - Vendor's specific role (design, development, content, strategy)
 
-- **3–5 relevant case studies** of website projects for accounting/tax/professional services firms
-- **2–3 client references** from similar engagements (contact name, firm, relationship, phone/email)
-- **Live examples** of websites currently maintained by your agency (with client permission)
+### 8.3 Team
 
-### 8.3 Differentiators
+- Names and roles of the team members who will work on this project.
+- Brief bios highlighting relevant experience.
+- Confirmation of whether any work will be subcontracted.
 
-Describe what sets your agency apart, specifically:
+### 8.4 References
 
-- Understanding of accounting firm operations, tax season dynamics, and compliance requirements
-- Approach to AI implementation (build vs. buy, model selection, training methodology)
-- Post-launch partnership model (how you support clients long-term)
-- Innovation roadmap (what's coming in the next 12–24 months for accounting firm clients)
+- Contact information for 3 recent clients (within the last 24 months) for similar projects.
+
+### 8.5 Certifications and compliance
+
+- Relevant certifications (e.g., SOC 2, ISO 27001, WCAG audit experience).
+- Insurance coverage (general liability, professional liability / E&O).
 
 ---
 
 ## 9. Evaluation Criteria
 
-Proposals will be evaluated using a weighted scoring model. The evaluation committee will score each criterion on a 1–5 scale (1 = Poor, 5 = Excellent). See [`evaluation-scorecard.md`](evaluation-scorecard.md) for the complete scoring rubric.
+Proposals will be evaluated using a weighted scoring matrix. The firm will score each proposal on the following criteria:
 
-| Criterion | Weight | What We're Evaluating |
-|-----------|--------|----------------------|
-| Domain Expertise | 25% | Depth of accounting/tax/CPA firm experience; understanding of professional services operations |
-| AI & Automation Capabilities | 20% | Voice agents, chatbots, workflow automation; practical deployment experience; ethical AI governance |
-| Design & UX Quality | 15% | Visual design, user experience, accessibility, mobile responsiveness; portfolio strength |
-| Pricing Model & Value | 15% | Transparent pricing; reasonable TCO; clear scope; fair payment terms |
-| Timeline & Delivery Confidence | 10% | Realistic timeline; clear milestones; tax-season awareness; risk mitigation |
-| Support & Partnership Model | 10% | Post-launch support; maintenance plan; responsiveness; long-term partnership approach |
-| References & Track Record | 5% | Quality of references; relevance of past work; client satisfaction |
+| Criterion | Weight |
+|---|---|
+| Understanding of requirements and strategic approach | 20% |
+| Design quality and user experience | 20% |
+| Technical capability and platform recommendation | 20% |
+| Relevant experience and portfolio | 15% |
+| AI and automation capabilities | 10% |
+| Project timeline and feasibility | 10% |
+| Cost and value | 5% |
+| **Total** | **100%** |
+
+A detailed evaluation scorecard with a 1–5 rubric is available in [`evaluation-scorecard.md`](./evaluation-scorecard.md).
+
+The firm reserves the right to reject any or all proposals, to waive informalities or irregularities in the bidding process, and to select the proposal that best serves the firm's interests.
 
 ---
 
-## 10. Submission Instructions
+## 10. Submission Guidelines
 
-### 10.1 Proposal Format
+### 10.1 Format
 
-Proposals should be submitted as a single PDF document (or linked document set) organized as follows:
+- Proposals should be submitted as a single PDF document.
+- Maximum length: 30 pages (excluding appendices).
+- Use the section structure of this RFP to organize your response.
 
-1. **Executive summary** (1 page max)
-2. **Company overview** (history, size, relevant expertise)
-3. **Proposed approach** (methodology, team structure, communication plan)
-4. **Technical solution** (CMS, hosting, architecture, integrations, AI approach)
-5. **Project timeline** (Gantt chart or milestone table)
-6. **Pricing** (itemized breakdown, TCO, payment schedule)
-7. **Case studies** (3–5 relevant examples)
-8. **References** (2–3 contacts)
-9. **Qualifications** (team bios, certifications, security posture)
-10. **Appendices** (additional detail as needed)
+### 10.2 Content requirements
 
-### 10.2 Submission Deadline
+- Executive summary (1 page maximum).
+- Response to each section of this RFP.
+- Detailed cost breakdown.
+- Project timeline with milestones.
+- Portfolio examples and references.
+- Any alternative approaches or value-adds the vendor recommends.
 
-**All proposals must be received by [Time] [Time Zone] on [Date].**
+### 10.3 Submission
+
+- **Deadline:** [Date and time, with time zone]
+- **Submit to:** [Name, Email]
+- **Subject line:** "Website RFP Response — [Vendor Name]"
 
 Late submissions will not be considered.
 
-### 10.3 Submission Method
+### 10.4 Questions
 
-Email proposals to: [Email address]
-Subject line: "Website RFP Response — [Vendor Name]"
+Vendors may submit written questions by [date]. The firm will distribute a consolidated Q&A document to all vendors who have indicated intent to submit a proposal.
 
-### 10.4 Questions & Clarifications
+### 10.5 Selection process
 
-- **Question deadline:** [Date — typically 1 week before submission deadline]
-- **Question format:** Email to [Email address] with subject "RFP Question — [Vendor Name]"
-- **Response method:** All questions and answers will be shared with all participating vendors (anonymized) to ensure a fair process
-
-### 10.5 Selection Process
-
-1. **Proposal review:** Evaluation committee scores all proposals using the weighted criteria
-2. **Shortlist:** Top 2–3 vendors invited for a 60-minute presentation/demonstration
-3. **Presentations:** [Date range for presentations]
-4. **Final selection:** [Date]
-5. **Contract execution:** [Date]
-6. **Project kickoff:** [Date]
+1. **Initial review** — firm reviews all submissions for completeness and responsiveness.
+2. **Scoring** — evaluation committee scores each proposal using the weighted scorecard.
+3. **Shortlist** — top 2–3 vendors are invited to a 60-minute presentation and Q&A.
+4. **Final selection** — firm selects the vendor and negotiates terms.
+5. **Notification** — all vendors are notified of the outcome within 5 business days of final selection.
 
 ### 10.6 Confidentiality
 
-All proposal content will be treated as confidential and used solely for evaluation purposes. Unselected vendors will receive a brief summary of evaluation feedback upon request.
+All information provided in this RFP and in vendor proposals is confidential and will be used solely for the purpose of evaluating and selecting a vendor. Vendors should not include proprietary information they are unwilling to share for evaluation purposes.
 
 ---
 
-## Appendix A: Glossary
-
-| Term | Definition |
-|------|-----------|
-| AEO | Answer Engine Optimization — optimizing content for AI-generated answers |
-| AI Agent | Autonomous software that performs tasks or interactions using artificial intelligence |
-| CMS | Content Management System — software for creating and managing digital content |
-| Core Web Vitals | Google's metrics for measuring real-world website performance (LCP, FID, CLS) |
-| SOC 2 | Service Organization Control 2 — a compliance standard for data security |
-| TCPA | Telephone Consumer Protection Act — regulates telemarketing and automated calls |
-| UAT | User Acceptance Testing — final testing phase before launch |
-| WCAG | Web Content Accessibility Guidelines — international accessibility standards |
-
----
-
-*This RFP template is provided by [PracticeGrowth.Tech](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) as a free resource for accounting firms. Customize it for your specific needs before distribution.*
+*This RFP template is provided by [PracticeGrowth.Tech](https://practicegrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=rfp-template) for informational purposes. It is not legal or procurement advice. Firms should have legal counsel review any RFP before distribution.*
